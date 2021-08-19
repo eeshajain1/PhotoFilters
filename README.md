@@ -1,2 +1,2 @@
 # PhotoFilters
-This code is designed to load images and allow the user to filter and save them
+This code is written to load images and allow the user to filter and save them. They mimick instagram filters, and use dynamic memory structures to store and change the images.
